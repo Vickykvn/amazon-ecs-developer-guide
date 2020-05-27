@@ -16,3 +16,4 @@ You may need to troubleshoot issues with your load balancers, tasks, services, o
 + [Docker diagnostics](docker-diags.md)
 + [API error messages](api_failures_messages.md)
 + [Troubleshooting IAM Roles for Tasks](troubleshoot-task-iam-roles.md)
++ [Troubleshooting deploys that seem to hang](troubleshoot-hung-deployments.md)
